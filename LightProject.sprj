@@ -2,14 +2,15 @@
 Iamthemagicnumber=1
 
 [Main]
-SelectedTab=0
+SelectedTab=3
 NumSubs=4
 OverrideOptimisation=0
 OptimiseFlags=0
 
 [File1]
 FileName=/home/brycec/DC20Badge/LightProject/LightProject.spin
-TopLine=124
+TopLine=36
+Folds=1,10,49,71,263,277,
 
 [File2]
 FileName=/home/brycec/DC20Badge/LightProject/i2c_basics.spin
